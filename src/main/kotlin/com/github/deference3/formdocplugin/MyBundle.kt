@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.deference3.formdocplugin
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
